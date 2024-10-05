@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **python projects**
 
-- 👨‍💻 My portfolio [https://hemaportfolio.carrd.co](https://hemaportfolio.carrd.co)
+- 👨‍💻 My portfolio [https://pavulurihemachowdary.github.io/Portfolio_Site/)
 
 - 📫 How to reach me **pavulurihema5@gmail.com**
 
