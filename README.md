@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hema Chowdary Pavuluri</h1>
 <h3 align="center">A Passionate Learner of cutting edge technologies</h3>
 
-- 🔭 I’m currently working on **Recommendation System that has code validations**
-
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently learning **Django and Flask**
 
 - 👯 I’m looking to collaborate on **python projects**
 
-- 👨‍💻 My portfolio [https://pavulurihemachowdary.github.io/Portfolio_Site/)
-
 - 📫 How to reach me **pavulurihema5@gmail.com**
-
-- My Kaggle account (https://www.kaggle.com/hemachowdarypavuluri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
